@@ -1,0 +1,22 @@
+{
+  "name": "pingpongbrackets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vritant24/PingPongBrackets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vritant24/PingPongBrackets/issues"
+  },
+  "homepage": "https://github.com/vritant24/PingPongBrackets#readme",
+  "dependencies": {
+    "d3": "^5.5.0"
+  }
+}
