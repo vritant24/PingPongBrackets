@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
+:root {
+  font-family: 'Inconsolata', monospace;
+
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #222;
+}
+
+@media only screen and (max-width: 600px) {
+  :root {
+    font-size: 12px;
+  }
+}

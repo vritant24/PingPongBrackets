@@ -1,22 +1,22 @@
 {
-  "name": "pingpongbrackets",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vritant24/PingPongBrackets.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/vritant24/PingPongBrackets/issues"
-  },
-  "homepage": "https://github.com/vritant24/PingPongBrackets#readme",
+  "name": "pingpong",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://vritant24.github.io/PingPongBrackets",
   "dependencies": {
-    "d3": "^5.5.0"
+    "gh-pages": "^1.2.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "styled-components": "^3.3.3"
+  },
+  "devDependencies": {
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   }
 }
