@@ -44,8 +44,8 @@ export default [
     {
         p1: "Ariel",
         p2: "Fibin",
-        s1: [4, 4, 0],
-        s2: [11, 11, 0],
+        s1: [5, 5, -],
+        s2: [11, 11, -],
         d: true
     },
     {
