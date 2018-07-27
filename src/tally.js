@@ -9,16 +9,16 @@ export default [
     {
         p1: "Dhanendra",
         p2: "Walker",
-        s1: [0, 0, 0],
-        s2: [0, 0, 0],
-        d: false
+        s1: [10, 8, "-"],
+        s2: [12, 10, "-"],
+        d: true
     },
     {
         p1: "Dorothy",
-        p2: "TBD",
-        s1: [0, 0, 0],
-        s2: [0, 0, 0],
-        d: false
+        p2: "Walker",
+        s1: [3, 2, "-"],
+        s2: [11, 11, "-"],
+        d: true
     },
     {
         p1: "Jiachen",
