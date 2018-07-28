@@ -4,7 +4,7 @@ export default [
         p2: "Connor",
         s1: [11, 11, "-"],
         s2: [7, 7, "-"],
-        d: false
+        d: true
     },
     {
         p1: "Dhanendra",
