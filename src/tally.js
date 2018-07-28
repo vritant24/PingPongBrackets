@@ -2,8 +2,8 @@ export default [
     {
         p1: "Apoorv",
         p2: "Connor",
-        s1: [0, 0, 0],
-        s2: [0, 0, 0],
+        s1: [11, 11, "-"],
+        s2: [7, 7, "-"],
         d: false
     },
     {
