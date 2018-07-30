@@ -37,8 +37,8 @@ export default [
     {
         p1: "Saatchi",
         p2: "Vritant",
-        s1: [0, 0, 0],
-        s2: [0, 0, 0],
+        s1: [11, 11, 0],
+        s2: [3, 3, 0],
         d: false
     },
     {
