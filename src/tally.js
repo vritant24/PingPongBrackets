@@ -21,11 +21,11 @@ export default [
         d: true
     },
     {
-        p1: "Jiachen",
-        p2: "TBD",
-        s1: [0, 0, 0],
-        s2: [0, 0, 0],
-        d: false
+        p1: "Jiachen [F]",
+        p2: "Apoorv",
+        s1: ["-", "-", "-"],
+        s2: ["-", "-", "-"],
+        d: true
     },
     {
         p1: "Aishwarya",
