@@ -30,8 +30,8 @@ export default [
     {
         p1: "Aishwarya",
         p2: "Rafah",
-        s1: [0, 0, 0],
-        s2: [0, 0, 0],
+        s1: [6, 8, 0],
+        s2: [11, 11, 0],
         d: false
     },
     {
