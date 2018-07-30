@@ -32,14 +32,14 @@ export default [
         p2: "Rafah",
         s1: [6, 8, 0],
         s2: [11, 11, 0],
-        d: false
+        d: true
     },
     {
         p1: "Saatchi",
         p2: "Vritant",
         s1: [11, 11, 0],
         s2: [3, 3, 0],
-        d: false
+        d: true
     },
     {
         p1: "Ariel",
