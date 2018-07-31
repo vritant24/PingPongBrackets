@@ -65,8 +65,8 @@ export default [
     {
         p1: "Aditya",
         p2: "Vaibhav",
-        s1: [0, 0, 0],
-        s2: [0, 0, 0],
-        d: false
+        s1: [3, 3, "-"],
+        s2: [11, 11, "-"],
+        d: true
     }
 ];
