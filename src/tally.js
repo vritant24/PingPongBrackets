@@ -50,10 +50,10 @@ export default [
     },
     {
         p1: "Amy",
-        p2: "Raza",
-        s1: [0, 0, 0],
-        s2: [0, 0, 0],
-        d: false
+        p2: "Raza [F]",
+        s1: ["-", "-", "-"],
+        s2: ["-", "-", "-"],
+        d: true
     },
     {
         p1: "Priyadarshini [F]",
