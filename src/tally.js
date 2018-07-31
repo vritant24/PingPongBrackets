@@ -56,11 +56,11 @@ export default [
         d: false
     },
     {
-        p1: "Priyadarshini",
+        p1: "Priyadarshini [F]",
         p2: "Marissa",
-        s1: [0, 0, 0],
-        s2: [0, 0, 0],
-        d: false
+        s1: ["-", "-", "-"],
+        s2: ["-", "-", "-"],
+        d: true
     },
     {
         p1: "Aditya",
